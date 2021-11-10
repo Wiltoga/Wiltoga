@@ -2,7 +2,7 @@
 
 French software developper here. I like coding stuff in C# (Windows) or C (Linux).
 
-You can check [my repositories](?tab=repositories), maybe there is something worth checking.
+You can check [my repositories](https://github.com/WildGoat07?tab=repositories), maybe there is something worth checking.
 
 
 I like spending all my night coding stuff and hating myself after. And chocolate. I love chocolate 🍫. And of course, goats 🐐.
