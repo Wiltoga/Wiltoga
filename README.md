@@ -1,4 +1,4 @@
-### ![qsdfqd](https://user-images.githubusercontent.com/30344403/131254734-5a9f3cea-9bef-4bd7-a217-e787e2c22ded.png) Hey you, you're finally awake. You were trying to cross the border, right ?
+### ![qsdfqd](https://user-images.githubusercontent.com/30344403/131254734-5a9f3cea-9bef-4bd7-a217-e787e2c22ded.png) Hey you, you're finally awake.
 
 French software developper here. I like coding stuff in C# (Windows) or C (Linux).
 
